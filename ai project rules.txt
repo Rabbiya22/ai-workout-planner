@@ -1,0 +1,8 @@
+1. Your six rules
+Rule	What the code must check
+R1 – Equipment	User has the required equipment.
+R2 – Level	Exercise difficulty is not above the user's level.
+R3 – Time	Each workout fits the available session time.
+R4 – Recovery	Same major muscle isn't trained on consecutive days.
+R5 – No repeats	Same exercise isn't repeated in one session.
+R6 – Weekly volume	Weekly sets per muscle stay within minimum and maximum limits.
